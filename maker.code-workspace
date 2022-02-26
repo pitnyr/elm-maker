@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".gh-pages"
+		}
+	],
+	"settings": {
+		"making-of.publishUrl": "https://pitnyr.github.io/elm-maker/",
+		"making-of.sourceUrl": "https://github.com/pitnyr/elm-maker/"
+	}
+}
